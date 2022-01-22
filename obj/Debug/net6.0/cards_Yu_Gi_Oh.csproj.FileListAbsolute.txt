@@ -1,0 +1,15 @@
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/bin/Debug/net6.0/cards_Yu_Gi_Oh
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/bin/Debug/net6.0/cards_Yu_Gi_Oh.deps.json
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/bin/Debug/net6.0/cards_Yu_Gi_Oh.runtimeconfig.json
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/bin/Debug/net6.0/cards_Yu_Gi_Oh.dll
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/bin/Debug/net6.0/ref/cards_Yu_Gi_Oh.dll
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/bin/Debug/net6.0/cards_Yu_Gi_Oh.pdb
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.csproj.AssemblyReference.cache
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.AssemblyInfoInputs.cache
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.AssemblyInfo.cs
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.csproj.CoreCompileInputs.cache
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.dll
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/ref/cards_Yu_Gi_Oh.dll
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.pdb
+/Users/macbook/curso dotnet/cards_Yu_Gi_Oh/obj/Debug/net6.0/cards_Yu_Gi_Oh.genruntimeconfig.cache
